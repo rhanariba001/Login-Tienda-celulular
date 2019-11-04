@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Login_ARYA
+{
+    public partial class FormServicios : Form
+    {
+        public FormServicios()
+        {
+            InitializeComponent();
+        }
+
+        private void FormServicios_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
